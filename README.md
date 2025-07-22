@@ -1,11 +1,14 @@
 ## 👋Hi there!
-I am a detail-oriented data analyst with hands-on experience in SQL, Python, Power BI, and Tableau, skilled at building analytics pipelines, dashboards, and reports that drive actionable business insights. Currently completing a remote Master’s in Computer Science, I excel at automating data workflows, cleaning and visualizing large datasets, and communicating findings to both technical and non-technical audiences. Proven ability to deliver fast, accurate results that support data-driven decision-making.
+
 
 ## ⚙️Skills:
-- Languages: Python, R, SQL
-- Data Tools: Power BI, Tableau, Jupyter Notebooks, Anaconda, Microsoft Excel, Microsoft SQL Server
-- Technologies: Amazon Web Service (AWS), Snowflake, Git, Bash Scripting, Visual Studio Code
+- **Testing Methods:** Manual, Automation, Web Application, Mobile, Regression, Cross-Browser
+- **Testing Tools:** Selenium, Postman, Chrome DevTools, Android Studio
+- **IDE:** PyCharm, VSCode, XCode
+- **Programming & Scripting:** Python, SQL, Command Line
+- **Version Control:** Git, GitHub
+- **Project Management:** Jira, Agile
 
 ## 🔗Links:
-- Portfolio Website: [datascienceportfol.io/ndomah1](https://www.datascienceportfol.io/ndomah1)
 - LinkedIn: [linkedin.com/in/nileshdomah/](https://www.linkedin.com/in/nileshdomah/)
+- Email: [ndomah1@gmail.com](mailto:ndomah1@gmail.com)
