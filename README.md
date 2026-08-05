@@ -15,7 +15,7 @@ My focus is clinical and healthcare data: building analyses on EHR and research 
 
 - Building a 30-day readmission quality measure on MIMIC-IV
 - Completing coursework toward an MS in Computer Science
-- Open to clinical data, healthcare analytics, and health IT analyst roles in Chicago
+- Open to clinical data, healthcare analytics, and health IT analyst roles in Chicago or remote
 
 ### Contact
 
