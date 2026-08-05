@@ -1,20 +1,23 @@
-## 👋 Hi there!
-With a strong foundation in data analysis, I discovered my passion for ensuring accuracy and reliability in technology. My experience evaluating search quality and analyzing large datasets taught me how precision directly impacts user trust — lessons that naturally led me toward a career in Quality Assurance.
+## Hi, I'm Nilesh
 
-During my work in data quality, I maintained over 97% accuracy rates and improved workflow efficiency by 20% through systematic testing and process optimization. These experiences sparked my commitment to building dependable software that performs as intended.
+I work at the intersection of healthcare and data. My background is an MS in Biomedical Informatics from the University of Chicago and a BA in Biology from the University of Minnesota, and I'm currently completing an MS in Computer Science at CU Boulder.
 
-Today, I’m expanding my technical expertise through TripleTen’s QA Engineering program, gaining hands-on experience with Selenium, Python, SQL, Postman, and Chrome DevTools. I’ve created automation scripts, performed API and regression testing, and built a strong understanding of cross-browser and mobile validation.
+My focus is clinical and healthcare data: building analyses on EHR and research datasets, defining measures correctly, and making the output usable by people who don't write SQL. Before this I spent two years in data quality and annotation work, auditing 1,000+ records weekly against structured guidelines, which is where I learned how much downstream analysis depends on getting the upstream definitions right.
 
-I’m now eager to contribute as a QA Automation Engineer at a collaborative, forward-thinking company where I can combine analytical thinking with modern test automation to deliver high-quality, reliable software that enhances the user experience.
+### Focus Areas
 
-## ⚙️ Skills:
-- **Testing Methods:** Manual, Automation, Web Application, Mobile, Regression, Cross-Browser
-- **Testing Tools:** Selenium, Postman, Chrome DevTools, Android Studio
-- **IDE:** PyCharm, VSCode, XCode
-- **Programming & Scripting:** Python, SQL, Command Line
-- **Version Control:** Git, GitHub
-- **Project Management:** Jira, Agile
+- **Clinical Data:** EHR data structures, cohort definition, quality measure specification
+- **Analysis:** SQL, Python, statistical modeling
+- **Reporting:** Tableau, dashboard design for non-technical stakeholders
+- **Engineering:** Git, CI/CD, REST APIs, automated data validation
 
-## 🔗 Links:
-- LinkedIn: [linkedin.com/in/nileshdomah/](https://www.linkedin.com/in/nileshdomah/)
+### Currently
 
+- Building a 30-day readmission quality measure on MIMIC-IV
+- Completing coursework toward an MS in Computer Science
+- Open to clinical data, healthcare analytics, and health IT analyst roles in Chicago
+
+### Contact
+
+- LinkedIn: [in/nileshdomah](https://linkedin.com/in/nileshdomah)
+- Email: ndomah1@gmail.com
