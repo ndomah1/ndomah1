@@ -9,7 +9,7 @@ My focus is clinical and healthcare data: building analyses on EHR and research 
 - **Clinical Data:** EHR data structures, cohort definition, quality measure specification
 - **Analysis:** SQL, Python, statistical modeling
 - **Reporting:** Tableau, dashboard design for non-technical stakeholders
-- **Engineering:** Git, CI/CD, REST APIs, automated data validation
+- **Engineering:** HTML, CSS, JavaScript, Git, CI/CD, REST APIs, automated data validation
 
 ### Currently
 
