@@ -1,23 +1,20 @@
-## Hi, I'm Nilesh
+# Hi, I'm Nilesh 👋
 
-I work at the intersection of healthcare and data. My background is an MS in Biomedical Informatics from the University of Chicago and a BA in Biology from the University of Minnesota, and I'm currently completing an MS in Computer Science at CU Boulder.
+I am a Data Engineer specializing in distributed computing, modern Lakehouse architectures, and scalable data pipelines. With a background in Biomedical Informatics (MS, UChicago) and currently completing my MS in Computer Science (CU Boulder), I bridge the gap between complex datasets and high-performance analytical storage.
 
-My focus is clinical and healthcare data: building analyses on EHR and research datasets, defining measures correctly, and making the output usable by people who don't write SQL. Before this I spent two years in data quality and annotation work, auditing 1,000+ records weekly against structured guidelines, which is where I learned how much downstream analysis depends on getting the upstream definitions right.
+My focus is on transforming high-velocity event streams and batch data into clean, dimensional data models that drive operational analytics.
 
-### Focus Areas
+### 🛠️ Focus Areas
+🟦 **Cloud Data Infrastructure:** Microsoft Azure, Azure Databricks, Delta Lake
+🟧 **Big Data Processing:** Apache Spark / PySpark, Azure Event Hubs (Kafka)
+🟩 **Data Warehousing:** Azure Synapse Dedicated SQL Pools, Dimensional Modeling (Star Schema)
+🟪 **Engineering Practices:** Python, SQL, CI/CD (GitHub Actions), Automated Data Validation
 
-- **Clinical Data:** EHR data structures, cohort definition, quality measure specification
-- **Analysis:** SQL, Python, statistical modeling
-- **Reporting:** Tableau, dashboard design for non-technical stakeholders
-- **Engineering:** HTML, CSS, JavaScript, Git, CI/CD, REST APIs, automated data validation
+### 🚀 Currently
+🚀 Engineering an end-to-end Real-Time Hospital Patient Flow Platform using Azure & PySpark
+🎓 Completing coursework toward an MS in Computer Science at CU Boulder
+💼 Open to Data Engineering and Cloud Data roles in Chicago or remote
 
-### Currently
-
-- Building a 30-day readmission quality measure on MIMIC-IV
-- Completing coursework toward an MS in Computer Science
-- Open to clinical data, healthcare analytics, and health IT analyst roles in Chicago or remote
-
-### Contact
-
-- LinkedIn: [in/nileshdomah](https://linkedin.com/in/nileshdomah)
-- Email: ndomah1@gmail.com
+### 📫 Contact
+🔗 **LinkedIn:** [in/nileshdomah](https://linkedin.com/in/nileshdomah)
+📧 **Email:** ndomah1@gmail.com
