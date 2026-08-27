@@ -11,7 +11,8 @@ My focus is on transforming high-velocity event streams and batch data into clea
 - **Engineering Practices:** Python, SQL, CI/CD (GitHub Actions), Automated Data Validation
 
 ### 🚀 Currently
-- Engineering an end-to-end Real-Time Hospital Patient Flow Platform using Azure & PySpark
+- Completing the DeepLearning.AI Data Engineering Professional Certificate
+- Grinding NeetCode and Stratascratch
 - Completing coursework toward an MS in Computer Science at CU Boulder
 - Open to Data Engineering and Cloud Data roles in Chicago or remote
 
