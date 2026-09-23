@@ -1,9 +1,3 @@
-**Short profile bio**
-
-Data engineering projects | Python, SQL, Azure & Databricks | MS Biomedical Informatics | MSCS in progress | Chicago/U.S. remote
-
-**Profile README**
-
 # Hi, I'm Nilesh 👋
 
 I build **data engineering projects with Python, SQL, Azure, and Databricks**, focusing on data integration, dimensional modeling, testing, and pipeline reliability.
