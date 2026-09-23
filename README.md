@@ -1,21 +1,40 @@
 # Hi, I'm Nilesh 👋
 
-I am a Data Engineer specializing in distributed computing, modern Lakehouse architectures, and scalable data pipelines. With a background in Biomedical Informatics (MS, UChicago) and currently completing my MS in Computer Science (CU Boulder), I bridge the gap between complex datasets and high-performance analytical storage.
+I build projects with **SQL, Python, Power BI, and Azure**, focusing on data quality, analytics, and data engineering.
 
-My focus is on transforming high-velocity event streams and batch data into clean, dimensional data models that drive operational analytics.
+I hold an **M.S. in Biomedical Informatics from the University of Chicago** and am completing an **M.S. in Computer Science at CU Boulder**. Healthcare is a particular interest, and I’m open to applying my skills across industries.
 
-### 🛠️ Focus Areas
-- **Cloud Data Infrastructure:** Microsoft Azure, Azure Databricks, Delta Lake
-- **Big Data Processing:** Apache Spark / PySpark, Azure Event Hubs (Kafka)
-- **Data Warehousing:** Azure Synapse Dedicated SQL Pools, Dimensional Modeling (Star Schema)
-- **Engineering Practices:** Python, SQL, CI/CD (GitHub Actions), Automated Data Validation
+## Featured projects
 
-### 🚀 Currently
-- Completing the DeepLearning.AI Data Engineering Professional Certificate
-- Grinding NeetCode and Stratascratch
-- Completing coursework toward an MS in Computer Science at CU Boulder
-- Open to Data Engineering and Cloud Data roles in Chicago or remote
+### 🏥 [Hospital Patient Flow & Capacity Analytics](https://github.com/ndomah1/patient-flow-analytics-azure)
 
-### 📫 Contact
-- **LinkedIn:** [in/nileshdomah](https://linkedin.com/in/nileshdomah)
-- **Email:** ndomah1@gmail.com
+An independent portfolio prototype using **synthetic hospital data** to explore patient volumes, length of stay, and capacity reporting.
+
+- Streaming ingestion and cleaning with Azure Event Hubs, Databricks, PySpark, and Delta Lake
+- Batch fact and dimension modeling, including SCD Type 2 patient history
+- SQL reporting views and a Power BI dashboard
+
+This is a demonstration project using synthetic data, not a clinical deployment.
+
+### 🧪 [Python UI Test Automation](https://github.com/ndomah1/automated-data-validation-framework)
+
+A Python testing project for a taxi-booking web application.
+
+- Selenium and Pytest with the Page Object Model
+- Eight automated tests covering booking interactions
+- Reusable browser interactions and assertions
+
+## Tools I use
+
+- **Analysis and reporting:** SQL, Python, Pandas, Power BI
+- **Data processing:** PySpark, Delta Lake, Azure Databricks
+- **Cloud and storage:** Azure Event Hubs, ADLS Gen2, Azure Synapse
+- **Development and testing:** Git, GitHub, Selenium, Pytest
+
+## Opportunities & contact
+
+Seeking full-time opportunities in **data analytics, reporting, data quality, business intelligence, and data engineering**.
+
+Open to **Chicago on-site/hybrid and U.S. remote roles**.
+
+[LinkedIn](https://www.linkedin.com/in/nileshdomah/) · [Email](mailto:ndomah1@gmail.com)
