@@ -1,36 +1,31 @@
-# Hi, I'm Nilesh 👋
+# Hi, I'm Nilesh Domah
 
-I build **data engineering projects with Python, SQL, Azure, and Databricks**, focusing on data integration, dimensional modeling, testing, and pipeline reliability.
+I build portfolio data pipelines with Python, SQL, PySpark, and Azure. My projects focus on turning raw events into validated datasets, dimensional models, and reporting views.
 
-I hold an **M.S. in Biomedical Informatics from the University of Chicago** and am completing an **M.S. in Computer Science at CU Boulder**. Healthcare is a particular interest, and I'm open to engineering opportunities across industries.
+I'm pursuing an **MS in Computer Science at the University of Colorado Boulder**, with expected completion in Mar 2028.
 
-## Featured projects
+Based in **Minneapolis, MN** · Open to Chicago relocation and remote opportunities
 
-### 🏥 [Hospital Data Pipeline & Dimensional Modeling](https://github.com/ndomah1/patient-flow-analytics-azure)
+## Featured project
 
-An independent prototype using **synthetic hospital data**.
+### [Azure Patient Flow Data Pipeline](https://github.com/ndomah1/patient-flow-analytics-azure)
 
-- Streaming ingestion and cleaning with Azure Event Hubs, Databricks, PySpark, and Delta Lake
-- Event deduplication and validation with separate storage for rejected records
-- Batch modeling of 1 fact table and 2 dimension tables, including SCD Type 2 patient history
-- Azure Synapse table definitions and 7 analytical SQL views
+An end-to-end portfolio project using synthetic hospital events to demonstrate streaming ingestion, data quality checks, batch dimensional modeling, and analytics.
 
-This is a portfolio demonstration using synthetic data, not a clinical deployment.
+- **Ingestion:** Generates JSON events for 200 synthetic patients across seven departments and sends them to Azure Event Hubs.
+- **Streaming:** Uses PySpark Structured Streaming and checkpointed writes to build Bronze and Silver Delta Lake layers.
+- **Data quality:** Applies nine validation rules, deduplicates events, and retains rejected records with reasons for investigation.
+- **Modeling:** Builds a batch Gold star schema with Type 2 patient history and fact-to-dimension joins using effective dates.
+- **Analytics:** Provides Synapse SQL reporting views and a Power BI dashboard for patient volume, length of stay, and bed metrics.
 
-### 🧪 [Python UI Test Automation](https://github.com/ndomah1/automated-data-validation-framework)
+**Stack:** Python · SQL · PySpark · Azure Databricks · Event Hubs · ADLS Gen2 · Delta Lake · Azure Synapse Analytics · Power BI
 
-A Python testing project for a taxi-booking web application using **Selenium, Pytest, and the Page Object Model**.
+[View the repository](https://github.com/ndomah1/patient-flow-analytics-azure) · [View the dashboard](https://github.com/ndomah1/patient-flow-analytics-azure/blob/HEAD/power_bi/hospital_dashboard.png)
 
-- Eight automated UI test definitions covering booking interactions
-- Reusable browser interactions and assertions
-- Checks for address entry, phone verification, payment selection, and booking options
+## Opportunities
 
-## Tools used in my projects
+I'm seeking **junior or associate data engineering roles** across industries. I'm also open to **data analyst and BI roles** involving SQL, data transformation, and modeling.
 
-**Python · SQL · PySpark · Azure Databricks · Delta Lake · Azure Event Hubs · ADLS Gen2 · Azure Synapse · Git · Pytest · Selenium**
+## Connect
 
-## Opportunities & contact
-
-Seeking full-time **junior/associate data engineering, ETL development, and data integration** opportunities in **Chicago or remotely within the U.S.** Open to relocation to Chicago.
-
-[LinkedIn](https://www.linkedin.com/in/nileshdomah/) · [Email](mailto:ndomah1@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/nileshdomah) · [Email](mailto:ndomah1@gmail.com)
