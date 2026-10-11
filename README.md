@@ -4,7 +4,7 @@ I build portfolio data pipelines with Python, SQL, PySpark, and Azure. My projec
 
 I'm pursuing an **MS in Computer Science at the University of Colorado Boulder**, with expected completion in Mar 2028.
 
-Based in **Minneapolis, MN** · Open to Chicago relocation and remote opportunities
+Based in **Minneapolis, MN** (open to relocation). 
 
 ## Featured project
 
@@ -24,7 +24,7 @@ An end-to-end portfolio project using synthetic hospital events to demonstrate s
 
 ## Opportunities
 
-I'm seeking **junior or associate data engineering roles** across industries. I'm also open to **data analyst and BI roles** involving SQL, data transformation, and modeling.
+I'm seeking **junior or associate data engineering roles** across all industries. I'm also open to **data analyst and BI roles** involving SQL, data transformation, and modeling.
 
 ## Connect
 
